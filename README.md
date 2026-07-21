@@ -3,5 +3,5 @@ Problem(s): 1 in 10 people aren't confident in what they're recylcing and almost
 
 Solution: BioBuddy
   - BioBuddy offers a two sided interface:
-    for businesses, they can ask the chatbot the most sustainable packgaging/material to use for their product & budget
+    for businesses, they can ask the chatbot the most sustainable packgaging/material to use for their product & budget;
     for people looking to learn more about waste sorting: just ask BioBuddy the most eco-friendly way to dispose of your item!
